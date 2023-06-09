@@ -1,2 +1,1 @@
-# PavanGopi
-hi this is pavangopi
+# Hi Every One print('Hello World')
